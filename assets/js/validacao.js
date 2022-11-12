@@ -40,7 +40,9 @@ const mensagensDeErro = {
     cpf: {
         valueMissing: 'O campo de CPF não pode estar vazio.',
         customError: 'O CPF digitado não é válido.'
-
+    },
+    preco: {
+        valueMissing: 'O campo de preço não pode estar vazio.',
     }
 }
 
