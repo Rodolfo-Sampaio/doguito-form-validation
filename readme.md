@@ -44,6 +44,6 @@ Veja nosso site adaptável em 🚩[Doguito PetShop](https://doguito-form-validat
 [Matheus Alberto Marcus](https://www.linkedin.com/in/matheus-alberto-marcus/)
 <br>
 <br>
-### 🚀 Valeu pela passada no meu Git. Se curtiu, bora trocar ideias! Dá um [`Follow`](https://github.com/Rodolfo-Sampaio) que tô sempre por aqui.  😎👩‍💻
+#### 🚀Thank you for visiting my Git. If you give me a [`Follow`](https://github.com/Rodolfo-Sampaio), I'll be happy to return the favor!  😎👩‍💻
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
